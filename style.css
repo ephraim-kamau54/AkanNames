@@ -2,4 +2,34 @@ body {
     background-image: url("images/external-content.duckduckgo.com.jpeg");
     background-size :cover ;
     background-repeat: no-repeat;
+    opacity: 70%;
+}
+
+label{
+    text-align: rows;
+}
+
+.form{
+    text-align: rows;
+    font-size: x-large;
+}
+
+.form label{
+    color: white;
+
+}
+
+#gender {
+    color: green;
+
+}
+
+body, html {
+  height: 30
+}
+
+p {
+    font-size: 30px;
+    color: blue;
+
 }

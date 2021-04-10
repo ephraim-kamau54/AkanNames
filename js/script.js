@@ -18,7 +18,7 @@ function results() {
         alert("Invalid month");
         return false;
     }
-    if (year < 1900 || year > 2030) {
+    if (year < 1800 || year > 2099) {
         alert("invalid year");
         return false;
     }
